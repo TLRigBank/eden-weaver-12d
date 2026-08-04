@@ -57,10 +57,7 @@ eden-weaver-12d/
 ├── docs/
 │   └── blueprint-overview.md
 ├── dimensions/
-│   ├── 01-insight.md
-│   ├── 02-quest.md
-│   ├── ... (one file per dimension)
-│   └── 12-close.md
+│   ├── 01-insight.md … 12-close.md
 ├── interconnections.md
 ├── prompts/
 │   └── dimension-prompts.md
@@ -79,8 +76,11 @@ This blueprint is intended for:
 
 ## Related Work
 
-- [RAF Framework](https://github.com/TLRigBank/raf-framework) — the broader Regenerative AI Fusion consulting & simulation system
-- Hermes Interface (coming) — local agent collaboration UI
+- [RAF Framework](https://github.com/TLRigBank/raf-framework) — regenerative consulting & simulation system
+- [Hermes Interface](https://github.com/TLRigBank/hermes-interface) — local agent collaboration UI
+- [Biomimicry Strategy](https://github.com/TLRigBank/biomimicry-strategy) — living nature → strategy library
+- [Regenerative Cases](https://github.com/TLRigBank/regenerative-cases) — portfolio of applied outcomes
+- [Grok Prompt Library](https://github.com/TLRigBank/grok-prompt-library) — reusable prompts & workflows
 
 ---
 
